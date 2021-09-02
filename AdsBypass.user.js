@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AdsBypass
 // @namespace    https://github.com/trunghaut1/AdsBypass
-// @version      0.2
+// @version      0.3
 // @description  Skip ads countdown for some websites
 // @author       trunghaut1
 // @match        https://1link.vip/*
